@@ -37,7 +37,8 @@ for (let i = 0; i < paisesLatam.length; i++) {
 console.log(paisesLatam)
 
 
-let paisesEuropa = [['Francia', 'España', 'Inglaterra', 'Portugal'],
+let paisesEuropa = [
+['Francia', 'España', 'Inglaterra', 'Portugal'],
 ['Alemania', 'Ucrania', 'Hungria', 'San Marino'],
 ['Suiza', 'Suecia', 'Italia', 'Finlandia']];
 
